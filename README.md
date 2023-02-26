@@ -1,4 +1,5 @@
 # PacificPokerTour
 Listings for the Pacific Poker Tour :diamonds:
-## Get domain name transfered 
-### set up home page
+## To-Do:
+- Get domain name transfered 
+- Set up home page
