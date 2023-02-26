@@ -4,5 +4,5 @@ Listings for the Pacific Poker Tour :diamonds:
 - Get domain name transfered 
 - Set up home page
 - Set up the 'about tab'
-- -Payout formate
+ -Payout formate
 - 
