@@ -1,5 +1,6 @@
 # PacificPokerTour
-Listings for the Pacific Poker Tour :diamonds:
+Listings for the Pacific Poker Tour :diamonds:  
+https://seashell-app-22wbu.ondigitalocean.app/ (dev URL)
 ## To-Do:
 - [ ] Get domain name transfered 
 - Create pages:
