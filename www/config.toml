@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://seashell-app-22wbu.ondigitalocean.app/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = "Pacific Poker Tour"
