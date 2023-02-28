@@ -259,7 +259,9 @@ figure:not(.dark) img, img.white {
   border-radius: 50%;
   display: block;
 }
-
+.avatar-img {
+  background-color: white;
+}
 .navbar-custom.top-nav-short .avatar-container{
   opacity: 0;
   visibility: hidden;
