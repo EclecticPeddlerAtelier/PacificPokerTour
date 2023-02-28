@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "Welcome to Pacific Poker Tour" # Set a different text for the header on the home page
-  subtitle = "the only organized poker tour West of the Rockies"
+  subtitle = "The only organized poker tour West of the Rockies"
   mainSections = ["post","posts"]
   logo = "img/ppt-logo-square.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
