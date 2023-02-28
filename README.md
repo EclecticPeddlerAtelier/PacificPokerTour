@@ -5,7 +5,7 @@ Listings for the Pacific Poker Tour :diamonds:
 ## To-Do:
 - [ ] Get domain name transfered 
 - Create pages:
-  - [ ] home
+  - [X] home
   - [ ] about
   - [ ] coming events
   - [ ] past events
