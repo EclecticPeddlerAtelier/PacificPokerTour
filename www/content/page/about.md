@@ -2,6 +2,7 @@
 title: About me
 subtitle: Why you'd want to go on a date with me
 comments: false
+date: 2023-02-28T12:50:39-05:00
 ---
 
 My name is Inigo Montoya. I have the following qualities:
