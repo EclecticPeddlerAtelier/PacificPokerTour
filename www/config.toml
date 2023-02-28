@@ -77,39 +77,28 @@ pygmentsCodefencesGuessSyntax = true
   strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
-
-[[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 3
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    name = "Players"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    identifier = "events"
+    name = "Events"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
+    parent = "events"
+    name = "Coming Events"
     url = "post/2017-03-07-bigimg-sample"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
+    parent = "events"
+    name = "Past Events"
     url = "post/2017-03-05-math-sample"
     weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
