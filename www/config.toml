@@ -84,7 +84,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Players"
-    url = ""
+    url = "page/players/"
     weight = 1
 
 [[menu.main]]
@@ -95,11 +95,11 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "events"
     name = "Coming Events"
-    url = "post/2017-03-07-bigimg-sample"
+    url = "page/future_events"
     weight = 1
 
 [[menu.main]]
     parent = "events"
     name = "Past Events"
-    url = "post/2017-03-05-math-sample"
+    url = "page/past_events"
     weight = 2
