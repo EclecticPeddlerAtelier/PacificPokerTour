@@ -13,8 +13,8 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Welcome to Pacific Poker Tour" # Set a different text for the header on the home page
-  subtitle = "The only organized poker tour West of the Rockies"
+  homeTitle = "Events"
+  subtitle = "Upcoming events will be listed here"
   mainSections = ["post","posts"]
   logo = "img/ppt-logo-square.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -49,38 +49,35 @@ pygmentsCodefencesGuessSyntax = true
   name = "JH"
   website = "https://webdev.evlis.org/"
   email = "youremail@domain.com"
-  facebook = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
+  github = "https://github.com/EclecticPeddlerAtelier/PacificPokerTour"
   twitter = "username"
   reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
   instagram = "username"
   youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  vk = "username"
-  paypal = "username"
-  telegram = "username"
-  500px = "username"
-  codepen = "username"
   mastodon = "url"
-  kaggle = "username"
-  weibo = "username"
-  slack = "username"
   discord = "invite code (https://discord.gg/XXXXXXX)"
-  strava = "userid"
 
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
+  #facebook = "username"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #strava = "userid"
+
 
 [[menu.main]]
     name = "Players"
@@ -103,3 +100,13 @@ pygmentsCodefencesGuessSyntax = true
     name = "Past Events"
     url = "page/past_events"
     weight = 2
+
+[[menu.main]]
+    name = "Leaderboard"
+    url = "/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 5
