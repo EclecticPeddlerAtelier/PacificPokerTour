@@ -1,4 +1,4 @@
-baseURL = 'https://lionfish-app-bdbno.ondigitalocean.app/'
+baseURL = 'https://www.pacificpokertour.com/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = "Pacific Poker Tour"
@@ -81,9 +81,21 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [[menu.main]]
+    identifier = "standings"
+    name = "Standings"
+    weight = 1
+
+[[menu.main]]
+    parent = "standings"
     name = "Players"
     url = "page/players/"
     weight = 1
+
+[[menu.main]]
+    parent = "standings"
+    name = "Leaderboard"
+    url = "/"
+    weight = 3
 
 [[menu.main]]
     identifier = "events"
@@ -103,7 +115,7 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    name = "Leaderboard"
+    name = "Payout Schedule"
     url = "/"
     weight = 3
 
