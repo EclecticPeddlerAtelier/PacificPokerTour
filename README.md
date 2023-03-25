@@ -1,6 +1,7 @@
 ![Latest Deployment](https://github.com/EclecticPeddlerAtelier/PacificPokerTour/actions/workflows/hugo.yml/badge.svg)
 # PacificPokerTour
 Listings for the Pacific Poker Tour :diamonds:  
+`[prod URL]:` https://www.pacificpokertour.com/  
 `[dev URL]:` https://lionfish-app-bdbno.ondigitalocean.app/  
 `[theme helpers]:` https://themes.gohugo.io/themes/beautifulhugo/  
 ## To-Do:
