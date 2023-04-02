@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Welcome to Pacific Poker Tour, the only organized poker tour West of the Rockies
+subtitle: Welcome to Pacific Poker Tour!
 comments: false
 date: 2023-02-28T12:50:39-05:00
 ---
@@ -17,9 +17,27 @@ We strive to help support and grow the Poker Community. PPT is not accepting of 
 4. Process: Each player will receive 2 cards.  A black and red one. Black to agree to a supposed chop. Red to disagree.  If there is one Red card then the game continues.  Another proposal of a chop may be proposed in half an hour or later.
 
 ### Player of the year
-TBD
+The Player of the year will get a seat to Solve for why academy.
+With an additional $500 for expenses, room or flight.
+
+The Player of the Year will be based on a point system.
 
 
-### Our history
 
-To be honest, I'm having some trouble remembering right now, just check back later.
+#### Points:
+Players will receive 0.01 point for every dollar they are paid out at a PPT tournament.  This does NOT include Bounty chips.
+
+Additional points will be awarded during the Main Event tournaments.
+- 50 to 99 players in the field
+  - Final Table will receive an extra 5 points.
+  - First place will receive an extra 10 points
+
+- 100 to 180 Players in the field
+  - Final Table will receive an extra 10 points
+  - First place will receive an extra 20 points
+
+- 181 to 300 Players in the field
+  - Final Table will receive an extra 15 points
+  - First place will receive an extra 30 points
+
+

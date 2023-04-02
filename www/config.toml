@@ -115,8 +115,8 @@ pygmentsCodefencesGuessSyntax = true
     weight = 2
 
 [[menu.main]]
-    name = "Payout Schedule"
-    url = "/"
+    name = "Payout Structure"
+    url = "page/payout"
     weight = 3
 
 [[menu.main]]
