@@ -94,7 +94,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "standings"
     name = "Leaderboard"
-    url = "/"
+    url = "page/leaderboard/"
     weight = 3
 
 [[menu.main]]
@@ -105,7 +105,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "events"
     name = "Coming Events"
-    url = "page/future_events"
+    url = "/"
     weight = 1
 
 [[menu.main]]
