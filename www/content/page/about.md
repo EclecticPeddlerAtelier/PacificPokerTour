@@ -16,13 +16,6 @@ We strive to help support and grow the Poker Community. PPT is not accepting of 
 3. If it is not an ICM chop or an agreed chop. At least 20% of the remaining prize pool.
 4. Process: Each player will receive 2 cards.  A black and red one. Black to agree to a supposed chop. Red to disagree.  If there is one Red card then the game continues.  Another proposal of a chop may be proposed in half an hour or later.
 
-### Player of the year
-The Player of the year will get a seat to Solve for why academy.
-With an additional $500 for expenses, room or flight.
-
-The Player of the Year will be based on a point system.
-
-
 
 #### Points:
 Players will receive 0.01 point for every dollar they are paid out at a PPT tournament.  This does NOT include Bounty chips.
